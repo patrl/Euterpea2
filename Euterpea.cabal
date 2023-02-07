@@ -27,7 +27,7 @@ description:
         MIDI; and low-level audio processing, sound synthesis, and instrument
         design.
 extra-source-files:
-        ReadMe.txt
+        ReadMe.md
 
 Library
   hs-source-dirs: .
